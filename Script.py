@@ -5,7 +5,7 @@ class text(object):
 
 𝖩𝗎𝗌𝗍 𝖺𝖽𝖽 𝗆𝖾 𝗂𝗇 𝗒𝗈𝗎𝗋 𝖼𝗁𝖺𝗇𝗇𝖾𝗅𝗌 𝖺𝗇𝖽 𝗀𝗋𝗈𝗎𝗉𝗌 𝗐𝗂𝗍𝗁 𝗉𝖾𝗋𝗆𝗂𝗌𝗌𝗂𝗈𝗇 𝗍𝗈 𝖺𝖽𝖽 𝗇𝖾𝗐 𝗆𝖾𝗆𝖻𝖾𝗋𝗌.
 
-<blockquote><b>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/TechifyRahul'>ʀᴀʜᴜʟ</a></b></blockquote>"""
+<blockquote><b>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/Zenitsu_Xy'>ʀᴀʜᴜʟ</a></b></blockquote>"""
 
     LOG = """👁️‍🗨️ 𝘜𝘚𝘌𝘙 𝘋𝘌𝘛𝘈𝘐𝘓𝘚
 
@@ -21,7 +21,7 @@ class text(object):
 ‣ ᴅᴀᴛᴀʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏᴅʙ</a>
 ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 𝟹</a> 
 ‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://www.koyeb.com/'>ᴋᴏʏᴇʙ</a>
-‣ ᴄʀᴇᴀᴛᴇᴅ ʙʏ : <a href='https://telegram.me/callownerbot'>ʀᴀʜᴜʟ</a></b>"""
+‣ ᴄʀᴇᴀᴛᴇᴅ ʙʏ : <a href='https://telegram.me/Zenitsu_Xy'>ʀᴀʜᴜʟ</a></b>"""
 
     HELP = """{},
 
