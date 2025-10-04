@@ -14,4 +14,4 @@ DB_URI = os.environ.get("DB_URI", "mongodb+srv://nshubh345:1FmseyW0TKaWNMNo@clus
 DB_NAME = os.environ.get("DB_NAME", "AutoApprovalBot")
 
 IS_FSUB = os.environ.get("IS_FSUB", "False").lower() == "true"  # Set "True" For Enable Force Subscribe
-AUTH_CHANNELS = list(map(int, os.environ.get("AUTH_CHANNEL", "-100******** -100*********").split())) # Add Multiple channel ids
+AUTH_CHANNELS = list(map(int, os.environ.get("AUTH_CHANNEL", "-1002172875461 -1002484621427").split())) # Add Multiple channel ids
